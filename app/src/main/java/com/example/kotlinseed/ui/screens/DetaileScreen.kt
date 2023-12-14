@@ -1,4 +1,4 @@
-package com.example.kotlinseed.ui
+package com.example.kotlinseed.ui.screens
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxHeight

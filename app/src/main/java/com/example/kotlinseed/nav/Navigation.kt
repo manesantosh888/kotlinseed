@@ -6,8 +6,8 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import com.example.kotlinseed.ui.DetailScreen
-import com.example.kotlinseed.ui.MainScreen
+import com.example.kotlinseed.ui.screens.DetailScreen
+import com.example.kotlinseed.ui.screens.MainScreen
 
 @Composable
 fun Navigation() {
